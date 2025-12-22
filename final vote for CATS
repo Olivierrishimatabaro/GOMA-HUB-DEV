@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CATS Hackathon – Goma & Nyiragongo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0b1220;
+      color: #e5e7eb;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: #020617;
+      border-radius: 14px;
+      padding: 28px;
+      max-width: 560px;
+      box-shadow: 0 15px 35px rgba(0,0,0,0.5);
+    }
+    h1 {
+      color: #38bdf8;
+      margin-top: 0;
+      font-size: 22px;
+    }
+    h2 {
+      color: #22c55e;
+      font-size: 16px;
+      margin-bottom: 16px;
+    }
+    p {
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #facc15;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>CATS Hackathon – Goma & Nyiragongo</h1>
+    <h2>Final Local Phase</h2>
+
+    <p>
+      The final local phase is here. Hackers will present their prototypes
+      and receive feedback from the <span class="highlight">community</span>.
+      Together, we’ll select the <span class="highlight">Top 3 projects</span>.
+    </p>
+
+    <p>
+      More than demos, this is about collaboration, learning,
+      and real <span class="highlight">impact</span> with
+      <span class="highlight">#Cardano</span>.
+    </p>
+  </div>
+</body>
+</html>
